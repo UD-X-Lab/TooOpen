@@ -1,0 +1,4 @@
+casablanca.dyn
+hotelrwanda.pirate
+seal.oss
+starship.gopher

@@ -1,0 +1,3 @@
+athery.bit
+babloom.bit
+floppys.bit

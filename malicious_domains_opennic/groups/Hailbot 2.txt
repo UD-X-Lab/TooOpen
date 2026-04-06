@@ -1,0 +1,11 @@
+hitlerbot.geek
+cecilio.geek
+tbot.dyn
+hailbot.dyn
+eth0.kamru.su
+kamru.su
+zentry.libre
+trelix.libre
+vorta.dyn
+zentry.dyn
+atlantic-node.libre 
