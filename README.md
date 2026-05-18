@@ -1,9 +1,9 @@
 # DNS query dataset overview
 
-| timestamp    | source IP (anonymized) | source port | domain/URL/name    | class | type | BIND9 label | resolver IP |resolver port	|	Ans	|Dvs|Str| Fth |Label (bot/not) |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 00:00:00.506 | a.a.a.a | 4680 | cookie.pirate | IN | A | +T | v4 | 53 | 8 | 2 | 394 | 187 | bot |
-| 00:00:00.654 | z::z | 35314 | graph.facebook.com | IN | A | +E(0)TD | v6 | 853 | 2 | 514 | 27 | 57 | notbot |
+| date | time    | source IP (anonymized) | source port | domain/URL/name    | class | type | BIND9 label | resolver IP |resolver port	|	Ans	|Dvs|Str| Fth |Label (bot/not) |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2025-04-01 | 00:00:00.506 | a.a.a.a | 4680 | cookie.pirate | IN | A | +T | v4 | 53 | 8 | 2 | 394 | 187 | bot |
+| 2025-04-01 | 00:00:00.654 | z::z | 35314 | graph.facebook.com | IN | A | +E(0)TD | v6 | 853 | 2 | 514 | 27 | 57 | notbot |
 
 The values, `Ans`, `Dvs`, `Str`, `Fth`, refer to Section IV-B of the paper.
 
