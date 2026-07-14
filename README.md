@@ -28,11 +28,13 @@ For privacy concerns, the dataset, with source IPs anonymized, can only be used 
 # Citation
 
 ```latex
-@inproceedings{yang2026tooopen,
+@inproceedings{yang2026too,
   title={Too Open to be Secure: An Evaluation of OpenNIC DNS Services and Domains},
   author={Yang, Dianshi and Liang, Xiaoqin and Liu, Daiping and Liu, Guannan and Hao, Shuai and Gao, Xing},
-  booktitle={2026 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)},
-  year={2026}
+  booktitle={2026 56th Annual IEEE International Conference on Dependable Systems and Networks (DSN)},
+  pages={284--298},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
