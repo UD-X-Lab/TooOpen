@@ -38,7 +38,8 @@ For privacy concerns, the dataset, with source IPs anonymized, can only be used 
 }
 ```
 
-
+## DOI
+[https://doi.org/10.1109/DSN69566.2026.00039](https://doi.org/10.1109/DSN69566.2026.00039)
 
 # List of malicious domains
 
